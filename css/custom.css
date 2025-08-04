@@ -1,0 +1,4 @@
+/* 侧边栏头像改为正方形 */
+.author-info__avatar img {
+  border-radius: 0 !important;
+}
